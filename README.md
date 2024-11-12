@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-# NAME:N.magesh
-# reg.no:212222040091
+# NAME:Praveen PV
+# reg.no:212221040131
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 
 # Aim:
